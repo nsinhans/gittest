@@ -1,2 +1,4 @@
 Testing git command
+Test 2 command
 Testing test1 changes
+Adding extra line
